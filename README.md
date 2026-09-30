@@ -1,156 +1,212 @@
 <div align="center">
 
-ARPIT PAREEK
-
-AI • Python • Learner • Creator 
-
-Turning ideas into software, and curiosity into experiments.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1410,100:0d0d0d&height=200&section=header&text=ARPIT%20PAREEK&fontSize=52&fontColor=D4AF6A&fontAlignY=42&desc=AI%20%C2%B7%20Bayesian%20Reasoning%20%C2%B7%20Cognitive%20Computing&descSize=16&descAlignY=62&descColor=E8DCC4&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="profile.jpg" width="240" alt="Arpit Pareek">
+<img src="https://img.shields.io/badge/RURAL-→-D4AF6A?style=for-the-badge&labelColor=0d0d0d" alt=""/>
+<img src="https://img.shields.io/badge/GLOBAL-0d0d0d?style=for-the-badge&labelColor=D4AF6A&color=0d0d0d" alt=""/>
 
 <br><br>
 
-<a href="https://github.com/arpitprk89">
-  <img src="https://img.shields.io/badge/GitHub-arpitprk89-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/arpit-pareek-83b533361/">
-  <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Pareek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://arpitprk89.github.io/arpit-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+<a href="https://arpitprk89.github.io/arpit-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
+<a href="https://www.linkedin.com/in/arpit-pareek-83b533361/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
+<a href="https://github.com/arpitprk89"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
+<a href="https://arpitszone.netlify.app/"><img src="https://img.shields.io/badge/ARPIT'S%20ZONE-0d0d0d?style=for-the-badge&logo=vercel&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
 
 </div>
-
-✦ About Me
-
-I am a Class XII PCM student and a self-taught Python developer exploring Artificial Intelligence, decision-making systems, reinforcement learning and cognitive computing.
-
-I learn by building — turning questions and ideas into experiments, interactive tools and software projects.
-
-Rural → Global
-
-🎓 Academic Journey
-
-Grade
-
-Result
-
-Class IX
-
-83.67%
-
-Class X
-
-85%
-
-Class XI
-
-89%
-
-Class XII
-
-Currently pursuing
-
-Current focus: Physics • Chemistry • Mathematics • AI / Programming
-
-🏆 Certifications
-
-I have three HackerRank certificates that provide additional evidence of my technical background:
-
-HackerRank Certificate 01
-https://www.hackerrank.com/certificates/263871542b77
-
-HackerRank Certificate 02
-https://www.hackerrank.com/certificates/iframe/e036c3a56d67
-
-HackerRank Certificate 03
-https://www.hackerrank.com/certificates/457324ab2b0aome
-
-🚀 Featured Work
-
-🧠 Bayesian Decision Maker
-
-Bayesian inference and decision-making under uncertainty
-
-🔗 https://github.com/arpitprk89/bayesian-decision-maker
-
-🎮 RL Visualiser
-
-An interactive way of exploring reinforcement learning and learning through feedback
-
-🔗 https://arpitprk89.github.io/rl-visuliser/
-
-🧠 Cognitive AI Simulator
-
-Exploring cognitive processes such as memory, emotion, and decision-making
-
-🔗 https://github.com/arpitprk89/cognitive-ai-simulator
-
-🧮 Smart Calculator
-
-A practical programming and problem-solving project
-
-🔗 https://arpitprk89.github.io/smart-calculator/
-
-💻 Technical Interests
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,linux,vscode&perline=8">
-</p>
-
-Exploring
-
-Artificial Intelligence • Machine Learning • Reinforcement Learning • Bayesian Inference • Decision Systems • Cognitive Computing • Web Development
-
-📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arpitprk89&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitprk89&layout=compact&hide_border=true&theme=transparent">
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
-</div>
+### About
 
-🐍 Contribution Journey
+I am a Class XII (PCM) student from Shrimadhopur, a small town in Sikar district, Rajasthan — self-taught in Python, and working at the intersection of **Bayesian reasoning, reinforcement learning, and cognitive computing**.
 
-<div align="center">
+I learn by building. Every project below started as a real question I didn't have an answer to yet.
 
-<img src="https://raw.githubusercontent.com/arpitprk89/arpitprk89/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+</td>
+<td width="30%" valign="top">
 
-</div>
+**Focus**
+AI · ML · Bayesian Inference
+Reinforcement Learning
+Cognitive Modelling
 
-✦ Beyond Code
+**Based in**
+Rajasthan, India
 
-I am interested in AI, psychology, mathematics, storytelling and building technology that can create opportunities for students from places where resources are limited.
+</td>
+</tr>
+</table>
 
-My broader work is available across my online profiles.
+<br>
 
-🔗 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,100:0d0d0d&height=2&width=1000" width="100%"/>
 
-<div align="center">
-
-GitHub
-
-https://github.com/arpitprk89
-
-Portfolio
-
-https://arpitprk89.github.io/arpit-portfolio/
-
-LinkedIn
-
-https://www.linkedin.com/in/arpit-pareek-83b533361/
-
-</div>
+### Academic Record
 
 <div align="center">
 
-Build. Learn. Experiment. Repeat.
+| Class | Result | Board / School |
+|:---:|:---:|:---|
+| IX | **82.25%** — First Division | Blue Bell Universal Academy |
+| X | **84.67%** — First Division | RBSE Board Examination |
+| XI | **88.40%** — First Division | Prince High School, Sikar |
+| XII | *In progress* | Sai Gurukul Academy |
+
+</div>
+
+<sub>India does not use a single GPA scale; results above are official RBSE percentages, the primary record.</sub>
+
+<br>
+
+### Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Brain 2.0**
+A Bayesian model of student cognitive load — tracks sleep, study hours and stress, and updates its estimate as new information comes in. Weights are hand-picked; stated openly as a learning project, not a clinical tool.
+[Live demo →](https://arpitprk89.github.io/Brain-2.0/)
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Vidya Yatra**
+Maps the academic journey from Class 1 to 12 — subject choices, social pressure, and how competitive exams shape decisions students make about their future.
+[Live demo →](https://arpitprk89.github.io/-Vidya-Yatra/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕉️ 33 Koti**
+Reads the 33 deva categories of Vedic tradition through the lens of modern psychology — human behaviour, inner traits, and recurring patterns, in a digital form.
+[Live demo →](https://arpitprk89.github.io/33-KOTI/)
+
+</td>
+<td width="50%" valign="top">
+
+**🎲 Bayesian Decision Maker**
+Bayesian inference for decision-making under uncertainty. Inspired by the work of Prof. Kenji Doya, OIST.
+[Repository →](https://github.com/arpitprk89/bayesian-decision-maker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 RL Visualiser**
+An interactive Q-learning grid — watch an agent learn to reach a goal through experience and feedback, mistake by mistake.
+[Live demo →](https://arpitprk89.github.io/rl-visuliser/)
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 Cognitive AI Simulator**
+A small model of how a student's emotional and cognitive state shifts across a sequence of decisions — mood, stress, focus, and a running memory log.
+[Repository →](https://github.com/arpitprk89/cognitive-ai-simulator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**❓ AI Quiz Game**
+A ten-question interactive quiz on core AI and machine learning concepts, with instant explanations after every answer.
+[Repository →](https://github.com/arpitprk89/ai-quiz-game)
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Student Study Helper**
+A grade tracker with simple data analysis, built to help students see their own patterns and stay motivated.
+[Repository →](https://github.com/arpitprk89/student-study-helper)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,100:0d0d0d&height=2&width=1000" width="100%"/>
+
+### Press
+
+<table width="100%">
+<tr>
+<td width="15%" align="center">📰</td>
+<td width="85%">
+
+**Shekhawati Live** — <i>"श्रीमाधोपुर के 16 वर्षीय अर्पित ने बनाए 5 AI प्रोजेक्ट"</i>, September 29, 2026
+[Read the article →](https://shekhawatilive.com/sikar/shrimadhopur-16-year-old-arpit-parik-ai-projects.html/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Certifications
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certificate_01-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=D4AF6A&labelColor=0d0d0d)](https://www.hackerrank.com/certificates/263871542b77)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certificate_02-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=D4AF6A&labelColor=0d0d0d)](https://www.hackerrank.com/certificates/e036c3a56d67)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Certificate_03-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=D4AF6A&labelColor=0d0d0d)](https://www.hackerrank.com/certificates/457324ab2b0a)
+
+</div>
+
+<br>
+
+### Technical Interests
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=D4AF6A&labelColor=0d0d0d)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=D4AF6A&labelColor=0d0d0d)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF6A&labelColor=0d0d0d)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=D4AF6A&labelColor=0d0d0d)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=D4AF6A&labelColor=0d0d0d)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=D4AF6A&labelColor=0d0d0d)
+
+Artificial Intelligence · Machine Learning · Reinforcement Learning · Bayesian Inference · Decision Systems · Cognitive Computing
+
+</div>
+
+<br>
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arpitprk89&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF6A&text_color=E8DCC4&icon_color=D4AF6A&ring_color=D4AF6A" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitprk89&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF6A&text_color=E8DCC4" width="42%"/>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/arpitprk89/arpitprk89/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br>
+
+### Beyond Code
+
+I'm interested in AI, physics , mathematics, storytelling, and building technology that opens doors for students from places where resources are limited. Through **ARPIK.AI** and **AZ Group**, I want to help students from small towns and rural India move further into AI, coding, and research — and get their work seen beyond where they started.
+
+<br>
+
+<div align="center">
+
+<i>Build. Learn. Experiment. Repeat.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1410,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
