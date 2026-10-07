@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1410,100:0d0d0d&height=200&section=header&text=ARPIT%20PAREEK&fontSize=52&fontColor=D4AF6A&fontAlignY=42&desc=AI%20%C2%B7%20Bayesian%20Reasoning%20%C2%B7%20Cognitive%20Computing&descSize=16&descAlignY=62&descColor=E8DCC4&animation=fadeIn" width="100%"/>
+<img src="assets/hero.svg" width="100%" alt="Arpit Pareek - animated banner: a student coding on a rooftop with a robot companion, an arc of light from a small town to a university"/>
 
 <br>
 
@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/arpit-pareek-83b533361/"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
 <a href="https://github.com/arpitprk89"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
 <a href="https://arpitszone.netlify.app/"><img src="https://img.shields.io/badge/ARPIT'S%20ZONE-0d0d0d?style=for-the-badge&logo=vercel&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
+<a href="https://arpitprk89.github.io/arpik-ai/"><img src="https://img.shields.io/badge/ARPIK.AI-0d0d0d?style=for-the-badge&logo=openai&logoColor=D4AF6A&labelColor=0d0d0d&color=1a1a1a" /></a>
 
 </div>
 
@@ -24,7 +25,7 @@
 
 ### About
 
-I am a Class XII (PCM) student from Shrimadhopur, a small town in Sikar district, Rajasthan — self-taught in Python, and working at the intersection of **Bayesian reasoning, reinforcement learning, and cognitive computing**.
+I am a Class XII (PCM) student from Shrimadhopur, a small town in Sikar district, Rajasthan, self-taught in Python, and working at the intersection of **Bayesian reasoning, reinforcement learning, and cognitive computing**.
 
 I learn by building. Every project below started as a real question I didn't have an answer to yet.
 
@@ -46,6 +47,45 @@ Rajasthan, India
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1410,100:0d0d0d&height=2&width=1000" width="100%"/>
+
+### Flagship Project
+
+<table width="100%">
+<tr>
+<td width="42%" align="center" valign="middle">
+
+<img src="assets/arpik-bot.svg" width="100%" alt="ARPIK, an animated robot companion greeting in several languages"/>
+
+</td>
+<td width="58%" valign="top">
+
+**🧠 ARPIK.AI: Your Secret Friend** *(version 0.1)*
+
+A free reflection and decision-support companion for students. It does not tell you what to do. It helps you understand yourself well enough to decide.
+
+- **Reflect:** guides a regret through *Reason → Pattern → Lesson → Next step*
+- **Talk:** a multilingual AI chat, with voice input in 12 languages
+- **Radar:** matches real opportunities, linking only to official sources
+- **Decide:** maps trade-offs, uncertainties and questions without picking for you
+- **Growth:** shows patterns over time from reflections saved on the user's own device
+
+Built with care: free to use, an optional on-device private mode, no chat storage on any server, and a crisis safeguard that points to Tele-MANAS 14416. It is a reflection tool, not a therapist.
+
+[Try ARPIK.AI →](https://arpitprk89.github.io/arpik-ai/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="assets/journey.svg" width="100%" alt="Animated journey from Class IX to ARPIK.AI"/>
+
+</div>
+
+<br>
 
 ### Academic Record
 
@@ -71,14 +111,14 @@ Rajasthan, India
 <td width="50%" valign="top">
 
 **🧠 Brain 2.0**
-A Bayesian model of student cognitive load — tracks sleep, study hours and stress, and updates its estimate as new information comes in. Weights are hand-picked; stated openly as a learning project, not a clinical tool.
+A Bayesian model of student cognitive load, tracking sleep, study hours and stress, and updating its estimate as new information comes in. Weights are hand-picked; stated openly as a learning project, not a clinical tool.
 [Live demo →](https://arpitprk89.github.io/Brain-2.0/)
 
 </td>
 <td width="50%" valign="top">
 
 **🧭 Vidya Yatra**
-Maps the academic journey from Class 1 to 12 — subject choices, social pressure, and how competitive exams shape decisions students make about their future.
+Maps the academic journey from Class 1 to 12: subject choices, social pressure, and how competitive exams shape decisions students make about their future.
 [Live demo →](https://arpitprk89.github.io/-Vidya-Yatra/)
 
 </td>
@@ -87,7 +127,7 @@ Maps the academic journey from Class 1 to 12 — subject choices, social pressur
 <td width="50%" valign="top">
 
 **🕉️ 33 Koti**
-Reads the 33 deva categories of Vedic tradition through the lens of modern psychology — human behaviour, inner traits, and recurring patterns, in a digital form.
+Reads the 33 deva categories of Vedic tradition through the lens of modern psychology: human behaviour, inner traits, and recurring patterns, in a digital form.
 [Live demo →](https://arpitprk89.github.io/33-KOTI/)
 
 </td>
@@ -103,14 +143,14 @@ Bayesian inference for decision-making under uncertainty. Inspired by the work o
 <td width="50%" valign="top">
 
 **🎮 RL Visualiser**
-An interactive Q-learning grid — watch an agent learn to reach a goal through experience and feedback, mistake by mistake.
+An interactive Q-learning grid: watch an agent learn to reach a goal through experience and feedback, mistake by mistake.
 [Live demo →](https://arpitprk89.github.io/rl-visuliser/)
 
 </td>
 <td width="50%" valign="top">
 
 **🧩 Cognitive AI Simulator**
-A small model of how a student's emotional and cognitive state shifts across a sequence of decisions — mood, stress, focus, and a running memory log.
+A small model of how a student's emotional and cognitive state shifts across a sequence of decisions: mood, stress, focus, and a running memory log.
 [Repository →](https://github.com/arpitprk89/cognitive-ai-simulator)
 
 </td>
@@ -199,7 +239,7 @@ Artificial Intelligence · Machine Learning · Reinforcement Learning · Bayesia
 
 ### Beyond Code
 
-I'm interested in AI, physics , mathematics, storytelling, and building technology that opens doors for students from places where resources are limited. Through **ARPIK.AI** and **AZ Group**, I want to help students from small towns and rural India move further into AI, coding, and research — and get their work seen beyond where they started.
+I'm interested in AI, physics, mathematics, storytelling, and building technology that opens doors for students from places where resources are limited. Through **ARPIK.AI** and **AZ Group**, I want to help students from small towns and rural India move further into AI, coding, and research, and get their work seen beyond where they started.
 
 <br>
 
