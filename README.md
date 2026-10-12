@@ -7,7 +7,7 @@
 <a href="https://arpitprk89.github.io/arpit-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></a>
 <a href="https://www.linkedin.com/in/arpit-pareek-83b533361/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=1a1a1a" /></a>
 <a href="https://github.com/arpitprk89"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=1a1a1a" /></a>
-<a href="https://arpitprk89.github.io/arpik-ai/"><img src="https://img.shields.io/badge/ARPIK.AI-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></a>
+<a href="https://arpitprk89.github.io/arpik.ai/"><img src="https://img.shields.io/badge/ARPIK.AI-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" /></a>
 <a href="mailto:arpitpareek79@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=1a1a1a" /></a>
 
 <br><br>
@@ -49,8 +49,7 @@ A free reflection and decision-support companion for students. It does not tell 
 
 Free to use, with an optional on-device private mode and no chat storage on any server. A crisis safeguard points to Tele-MANAS 14416. It is a reflection tool, not a therapist.
 
-[Open ARPIK.AI](https://arpitprk89.github.io/arpik-ai/)
-
+[Open ARPIK.AI](https://arpitprk89.github.io/arpik.ai/)
 </td>
 </tr>
 </table>
